@@ -12,17 +12,19 @@ See final blog post here: [https://royforestano.github.io/blog/2023/2023-gsoc-ml
 
 There are five notebooks in this repository based on:
 
-1. Loading and Sorting the Data
-2. GNN and EGNN Models
-3. QGNN Model
-4. EQGNN Model
-5. ROC Curves for all models
+1. Loading and Sorting the Data  (notebook in models/auxiliary_notebooks/)
+2. GNN and EGNN Models           (notebook in models/)
+3. QGNN Model                    (notebook in models/)
+4. EQGNN Model                   (notebook in models/)
+5. ROC Curves for all models     (notebook in models/auxiliary_notebooks/)
 
 There are also
 
 6. Preprocessing (Python file in utils directory)
-7. Saved sorted numpy arrays for testing (2.-5.)  (numpy arrays in data and roc_data directories).
+7. Saved sorted numpy arrays for testing (2.-4.)  (numpy arrays in data directory).
+8. Saved sorted numpy arrays for testing (5.)  (numpy arrays in roc_data directory).
 
-To run the first notebook (1.), you need to download the 20 Pythia 8 files and uncomment the first few lines reading in the 20 data files.
+To run the first notebook (1.), you need to download the 20 Pythia 8 [https://zenodo.org/records/3164691] files and uncomment the first few lines reading in the 20 data files.
 
-The other notebooks (2.-5.) can be run using (6.-7.).
+The other notebooks (2.-4.) can be run using (6.-7.).
+The notebook (5.) can be run using (8.).
