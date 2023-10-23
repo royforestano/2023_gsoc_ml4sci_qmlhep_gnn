@@ -27,5 +27,6 @@ There are also
 
 To run the first notebook (1.), you need to download the 20 Pythia 8 [https://zenodo.org/records/3164691] files and uncomment the first few lines reading in the 20 data files.
 
-The other notebooks (2.-4.) can be run using (6.-7.).
-The notebook (5.) can be run using (8.).
+The model notebooks (2.-4.) can be run using (6.-7.).
+
+The roc notebook (5.) can be run using (8.).
