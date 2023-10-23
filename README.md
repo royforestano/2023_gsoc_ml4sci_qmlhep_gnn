@@ -8,6 +8,7 @@ Machine learning algorithms are heavily relied on to understand the vast amounts
 Original Project Proposal: Invariant and Equivariant Quantum Graph Attention Transformers for HEP Analysis at the LHC
 
 See public proposal here: [https://summerofcode.withgoogle.com/programs/2023/projects/1ERZ3hp2]
+
 See final blog post here: [https://royforestano.github.io/blog/2023/2023-gsoc-ml4sci-qmlhep/]
 
 There are five notebooks in this repository based on:
