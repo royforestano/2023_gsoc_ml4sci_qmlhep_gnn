@@ -7,3 +7,20 @@ Machine learning algorithms are heavily relied on to understand the vast amounts
 Original Project Proposal: Invariant and Equivariant Quantum Graph Attention Transformers for HEP Analysis at the LHC
 
 See public proposal here: [https://summerofcode.withgoogle.com/programs/2023/projects/1ERZ3hp2]
+---------------------------------------------------------------------------------------------------------
+There are five notebooks in this repository based on:
+
+1. Loading and Sorting the Data
+2. GNN and EGNN Models
+3. QGNN Model
+4. EQGNN Model
+5. ROC Curves for all models
+
+There are also
+
+6. Preprocessing (Python file in utils directory)
+7. Saved sorted numpy arrays for testing (2.-5.)  (numpy arrays in data and roc_data directories).
+
+To run the first notebook (1.), you need to download the 20 Pythia 8 files and uncomment the first few lines reading in the 20 data files.
+
+The other notebooks (2.-5.) can be run using (6.-7.).
