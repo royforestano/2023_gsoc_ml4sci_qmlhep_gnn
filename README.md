@@ -2,6 +2,7 @@
 
 ![gsoc_ml4sci](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn/assets/96851867/3ed6ecda-bbe2-4e80-8e97-fa3e3b6647bf)
 
+Publication: [https://www.mdpi.com/2075-1680/13/3/160]
 
 2023 Google Summer of Code (GSOC) Machine Learning for Science (ML4SCI) Quantum Machine Learning for High Energy Physics (QMLHEP).
 
